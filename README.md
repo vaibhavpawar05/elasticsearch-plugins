@@ -1,2 +1,2 @@
 # elasticsearch-plugins
-Custom plugin for ES
+Custom plugins for ES
